@@ -7,15 +7,14 @@
 ---
 
 
-> "May stats be with You " - Me
+> ### "May stats be with You " - Me
 
 ---
 
 ### 👩‍💻 About Me
 - Computer Science Student  
 - Interested in Data Analysis, Machine Learning & Real-world Problem Solving  
-- Currently : Trying To Do Better  
-- Exploring research + conferences + real-world impact projects  
+- Currently : Trying To Do Better 
 
 ---
 
@@ -27,10 +26,6 @@
 <img src="https://skillicons.dev/icons?i=c" height="50"/>
 <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
 <img src="https://skillicons.dev/icons?i=react" height="50"/>
-<img src="https://skillicons.dev/icons?i=matplotlib" height="50"/>
-<img src="https://skillicons.dev/icons?i=streamlit" height="50"/>
-<img src="https://skillicons.dev/icons?i=pandas" height="50"/>
-<img src="https://skillicons.dev/icons?i=numpy" height="50"/>
 <img src="https://skillicons.dev/icons?i=git" height="50"/>
 
 </div>
