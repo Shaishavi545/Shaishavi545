@@ -1,16 +1,72 @@
-## Hi there 👋
+## Helloooooo World👋
 
-<!--
-**Shaishavi545/Shaishavi545** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey 👋 I'm Shaishavi Shah</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Building Data-Driven Solutions & Exploring AI </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+> "May stats be with You " - Me
+
+---
+
+### 👩‍💻 About Me
+- Computer Science Student  
+- Interested in Data Analysis, Machine Learning & Real-world Problem Solving  
+- Currently : Trying To Do Better  
+- Exploring research + conferences + real-world impact projects  
+
+---
+
+### 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python" height="50"/>
+<img src="https://skillicons.dev/icons?i=c" height="50"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+<img src="https://skillicons.dev/icons?i=react" height="50"/>
+<img src="https://skillicons.dev/icons?i=matplotlib" height="50"/>
+<img src="https://skillicons.dev/icons?i=streamlit" height="50"/>
+<img src="https://skillicons.dev/icons?i=pandas" height="50"/>
+<img src="https://skillicons.dev/icons?i=numpy" height="50"/>
+<img src="https://skillicons.dev/icons?i=git" height="50"/>
+
+</div>
+
+---
+
+
+
+---
+
+### Connect With Me
+
+<div align="center">
+
+<a href="Ylinkedin.com/in/shaishavi-shah5">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:shahshaishavi74@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Shaishavi545&show_icons=true&theme=tokyonight" height="150"/>
+
+<img src="https://streak-stats.demolab.com?user=Shaishavi545&theme=tokyonight" height="150"/>
+
+</div>
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
