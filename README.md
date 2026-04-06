@@ -60,7 +60,8 @@
 
 <img src="https://streak-stats.demolab.com?user=Shaishavi545&theme=tokyonight" height="150"/>
 
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaishavi545&bg_color=0d1117&color=5BCDEC&line=1f6feb&point=FFFFFF&area=true&hide_border=true"/>
+
 </div>
 
 ---
